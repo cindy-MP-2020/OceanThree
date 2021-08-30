@@ -1,0 +1,63 @@
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+    margin: 0;
+  }
+  #bg {
+      position: fixed;
+      margin: 0;
+      padding: 0;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: -999;
+    }
+  .page-wrapper {
+        padding: 0px;
+        margin: 12px 48px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        word-wrap: break-word;
+  }
+  .text {
+        position: absolute;
+        top: 1000px;
+        width: 500px;
+        height: 500px;
+        color: white;
+        right: 200px;
+  }
+  .text2 {
+        position: absolute;
+        top: 1900px;
+        width: 500px;
+        height: 500px;
+        color: white;
+        left: 200px;
+  }
+  .text3 {
+        position: absolute;
+        top: 3000px;
+        width: 500px;
+        height: 500px;
+        color: white;
+        right: 200px;
+  }
+  .text4 {
+        position: absolute;
+        top: 4000px;
+        width: 1200px;
+        height: 500px;
+        color: white;
+  }
+  .text5 {
+        position: absolute;
+        top: 5000px;
+        width: 1200px;
+        height: 500px;
+        color: white;
+  }
+  
